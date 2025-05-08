@@ -17,7 +17,7 @@ const Home = () => {
       <section className="info-section">
         <h2>Elevate your everyday</h2>
         <div className="content">
-          <img src="/src/assets/Images/home2.jpeg" alt="Lifestyle" />
+          <img src="src/assets/Images/home2.jpeg" alt="Lifestyle" />
           <div className="text">
             <p>
             Welcome to Modern Lifestyle Store, where elegance meets functionality! ✨
